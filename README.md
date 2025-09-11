@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishi Kumar Singh</h1>
-<h3 align="center">Hello, I'm Rishi. I'm a front-end developer who is passionate about learning new tech. I enjoy building web apps. Right now, my primary focus is React & Nodejs.</h3>
+<h3 align="center">Hello, I'm Rishi. I'm a Full Stack Developer who is passionate about learning new tech. I enjoy building web apps. Right now, my primary focus is React & Nodejs.</h3>
 
 <p align="left"> <a href="https://twitter.com/rishisingh1034" target="blank"><img src="https://img.shields.io/twitter/follow/rishisingh1034?logo=twitter&style=for-the-badge" alt="rishisingh1034" /></a> </p>
 
